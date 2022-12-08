@@ -1,0 +1,43 @@
+.left,
+.right {
+    display: flex;
+    width: 400px;
+    background: #aeffff;
+    padding: 10px;
+}
+
+section {
+    display: flex;
+    width: 920px;
+
+}
+
+a {
+    text-decoration: none;
+
+
+}
+
+.left {
+    margin: 0 5px 0 10px;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(188, 255, 121);
+}
+
+.container footer {
+    background: #aeffff;
+    width: 790px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
